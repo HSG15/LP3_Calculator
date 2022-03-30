@@ -218,7 +218,7 @@
             android:layout_weight="1"
             android:backgroundTint="@color/bg_btn"
             android:onClick="onClear"
-            android:text="CLR"
+            android:text="AC"
             android:textSize="25sp" />
 
         <Button
